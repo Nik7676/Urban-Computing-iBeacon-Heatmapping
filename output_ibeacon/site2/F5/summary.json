@@ -1,0 +1,30 @@
+{
+  "site": "site2",
+  "floor": "F5",
+  "beacon_id": "FDA50693-A4E2-4FB1-AFCF-C6EB07647825_10073_61418",
+  "all_usable_scans": 845,
+  "selected_scans": 367,
+  "selected_paths": 27,
+  "all_beacons": 30,
+  "observed_cells": 179,
+  "observed_area_m2_approx": 716.0,
+  "rssi_mean_dbm": -89.80108991825612,
+  "rssi_median_dbm": -90.0,
+  "rssi_std_db": 5.728006062640057,
+  "rssi_min_dbm": -103.0,
+  "rssi_max_dbm": -74.0,
+  "rssi_p05_dbm": -99.0,
+  "rssi_p95_dbm": -80.0,
+  "median_nearest_waypoint_gap_ms": 1110.0,
+  "settings": {
+    "cell_m": 2.0,
+    "radius_m": 6.0,
+    "grid_step_m": 0.75,
+    "k_neighbors": 6,
+    "min_neighbors": 2,
+    "idw_power": 2.0,
+    "max_gap_ms": 5000.0,
+    "min_rssi": -110.0,
+    "max_rssi": -20.0
+  }
+}
