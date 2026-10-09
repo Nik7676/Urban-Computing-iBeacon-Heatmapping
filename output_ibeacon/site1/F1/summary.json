@@ -1,0 +1,30 @@
+{
+  "site": "site1",
+  "floor": "F1",
+  "beacon_id": "9195B3AD-A9D0-4500-85FF-9FB0F65A5201_0_0",
+  "all_usable_scans": 29413,
+  "selected_scans": 28780,
+  "selected_paths": 119,
+  "all_beacons": 20,
+  "observed_cells": 1503,
+  "observed_area_m2_approx": 6012.0,
+  "rssi_mean_dbm": -80.86886726893677,
+  "rssi_median_dbm": -82.0,
+  "rssi_std_db": 8.767001680387287,
+  "rssi_min_dbm": -103.0,
+  "rssi_max_dbm": -49.0,
+  "rssi_p05_dbm": -94.0,
+  "rssi_p95_dbm": -65.0,
+  "median_nearest_waypoint_gap_ms": 1589.0,
+  "settings": {
+    "cell_m": 2.0,
+    "radius_m": 6.0,
+    "grid_step_m": 0.75,
+    "k_neighbors": 6,
+    "min_neighbors": 2,
+    "idw_power": 2.0,
+    "max_gap_ms": 5000.0,
+    "min_rssi": -110.0,
+    "max_rssi": -20.0
+  }
+}
